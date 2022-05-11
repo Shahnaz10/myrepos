@@ -1,2 +1,2 @@
 # myrepos
-My first repositry
+My first repository
